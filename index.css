@@ -152,6 +152,30 @@ width: 70%;
 .about p { 
     margin: 2%; 
 }
+
+/*features section*/
+
+.fav { 
+    width: 10%; 
+    display: block; 
+    margin: 3% auto; 
+}
+
+.features p {
+    text-align: center; 
+    width: 20%;
+    margin: auto; 
+    font-size: 1.5rem;
+}
+
+.bold { 
+    font-weight: bold; 
+    border: none; 
+}
+
+
+
+
 /*footer styles*/
 
 footer { 
